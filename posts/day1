@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>D1</title>
+    <style>
+        body { max-width: 800px; margin: 40px auto; padding: 20px; font-family: sans-serif; line-height: 1.8; }
+        h1 { color: #333; }
+    </style>
+</head>
+<body>
+    <h1>我甚至不知道我该学什么</h1>
+    <p>第一天。我叫mimo帮我规划了学习路径。现在正在补全工具链。github和看我博客的你们就是我play的一环</p>
+</body>
+</html>
