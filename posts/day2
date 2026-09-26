@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>D2</title>
+    <style>
+        body { max-width: 800px; margin: 40px auto; padding: 20px; font-family: sans-serif; line-height: 1.8; }
+        h1 { color: #333; }
+    </style>
+</head>
+<body>
+    <h1>知道自己不知道的比知道或不知道自己知道的总和还多</h1>
+    <p>尝试无鼠标使用电脑ing</p>
+</body>
+</html>
